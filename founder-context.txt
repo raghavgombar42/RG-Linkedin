@@ -1,0 +1,27 @@
+FOUNDER CONTEXT - background facts about Raghav, for reference only.
+
+Use these facts to understand a note. Do NOT add any of them to a post unless the note itself is about that topic. The note is the story; this file is only background.
+
+WHO
+- Raghav Gombar, 24. PGP student at Mesa School of Business, Bengaluru (2026 cohort).
+- B.Com (Hons.), Shaheed Bhagat Singh College, Delhi University. Did theatre in college.
+- Deloitte USI, Audit (2023 onwards), mostly large US insurance clients. Promoted early to Audit Senior. Left to move closer to startups, growth, strategy and building.
+- Likes selling, negotiating, talking to people, messy operational problems, and seeing something tangible happen.
+- Wants to be seen as someone who notices how businesses actually work (Founder's Office / BizOps / strategy-operations direction). Never state this directly in a post.
+
+WHAT HE IS BUILDING
+- BLUNNT: an internet-first oversized statement-tee brand, started in Mesa's BYOB sprint. Positioning: clothes that say what the person wearing them doesn't. "Threads that talk." Real operational work: manufacturers, printing limits, inventory, packaging, Shopify, Razorpay, B2B orders, customer delays, margins, influencers, shipping (Blue Dart).
+  Always spell it BLUNNT.
+- An Indian luxury eyewear label, pre-launch and still unnamed. Bold, refined, prescription-capable statement frames. Currently in customer research (interviews with people who own several premium pairs). Do not invent a brand name, prices, launch dates, suppliers or traction. Do not mention family trade relationships unless the note does.
+
+WHAT HIS WEEKS LOOK LIKE
+- Mesa: founder and operator sessions, live problem statements, presentations, assignments, classmates.
+- Everyday Bengaluru life that makes him curious about the business underneath (quick commerce, delivery, restaurants).
+
+LINKEDIN SO FAR
+- Started posting in September 2026. First post was his best. Audience is small and early.
+
+HARD RULES
+- Only use personal or family details that appear in the note itself.
+- If the note names a person, keep the name. If it doesn't, don't invent one.
+- If a detail the story needs is missing, write [VERIFY: ...] rather than guessing.

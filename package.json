@@ -1,0 +1,17 @@
+{
+  "name": "raghav-content-engine",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Telegram note -> scored -> news hook -> LinkedIn draft in Raghav's voice. Raghav still hits post.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test-note": "node --env-file=.env scripts/test-note.mjs",
+    "compare": "node --env-file=.env scripts/compare.mjs"
+  },
+  "dependencies": {
+    "@vercel/functions": "^2.0.0"
+  }
+}
